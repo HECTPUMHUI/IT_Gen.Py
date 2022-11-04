@@ -7,6 +7,9 @@ cd ~/Desktop/project/git1
 # cоздать каталог
 mkdir
 
+#  create new file(win/linux)
+touch <file_name>
+
 # показать текущее местоположение
 pwd
 
